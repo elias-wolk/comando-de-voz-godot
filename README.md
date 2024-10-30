@@ -24,6 +24,4 @@ Este sistema de controle por voz está em fase de testes e tem como meta futura 
 
 Atualmente, o projeto está em fase de testes. Planejamos continuar aprimorando a funcionalidade e a acessibilidade, expandindo o suporte a uma variedade de jogos.
 
-# comando-de-voz-godot
-projeto de acessibilidade em voz para jogos criado no godot
 
